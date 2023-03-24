@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages/Newtonsoft.Json.13.0.2
+/.vs
+/TestUMR2/bin/Debug
+/TestUMR2/obj
+/UMR2_COMM/bin
+/UMR2_COMM/obj
+/UMR2_COMM/WTH_UMR2_Connection.csproj.vspscc

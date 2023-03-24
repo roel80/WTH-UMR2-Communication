@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTH_UMR2_Connection", "UMR2_COMM\WTH_UMR2_Connection.csproj", "{A510C190-A611-41CE-AD3F-D33580435682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUMR2", "TestUMR2\TestUMR2.csproj", "{CDF32EF2-20DE-49B3-8AAB-643A7CC0471D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A510C190-A611-41CE-AD3F-D33580435682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A510C190-A611-41CE-AD3F-D33580435682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A510C190-A611-41CE-AD3F-D33580435682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A510C190-A611-41CE-AD3F-D33580435682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF32EF2-20DE-49B3-8AAB-643A7CC0471D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF32EF2-20DE-49B3-8AAB-643A7CC0471D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF32EF2-20DE-49B3-8AAB-643A7CC0471D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF32EF2-20DE-49B3-8AAB-643A7CC0471D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {530EE950-B465-4133-9B16-838B1241A967}
+	EndGlobalSection
+EndGlobal
