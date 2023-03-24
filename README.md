@@ -10,4 +10,5 @@ Requires WTH UMR2 connected to the same network
  - RF and other devices are not implemented. I do not have them.
  
 UMR2 datasheet: https://www.wth.nl/uploads/downloads/UMR2_Productblad_20230203.pdf
+
 C820S1 manual: https://www.wth.nl/uploads/downloads/C820S1_installatiehandleiding_20230126.pdf
